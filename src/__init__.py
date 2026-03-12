@@ -1,0 +1,3 @@
+"""AuditSEO Tool - Professional SEO Audit Tool"""
+
+__version__ = "1.0.0"
